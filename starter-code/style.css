@@ -54,3 +54,8 @@ footer {
 .name {
 	color: rgb(73, 226, 214);
 }
+
+img {
+	height: 200px;
+  width: 150px;
+}
